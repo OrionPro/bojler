@@ -39,12 +39,13 @@ test/**/*.html
 .idea/dataSources.local.xml
 .idea/sqlDataSources.xml
 .idea/dynamic.xml
+.idea/deployment.xml
 .idea/uiDesigner.xml
 
 # Gradle:
 .idea/gradle.xml
 .idea/libraries
-
+.idea/
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
 
